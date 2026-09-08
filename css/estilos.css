@@ -112,3 +112,49 @@ h2 {
   margin: 0;
   color: #777777;
 }
+
+/* Reparadores */
+.tarjeta {
+  border: 1px solid #cccccc;
+  padding: 15px;
+  margin-bottom: 15px;
+}
+
+.tarjeta h3 {
+  color: #2E7D5B;
+  margin-bottom: 5px;
+}
+
+.tarjeta img {
+  max-width: 250px;
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+
+.estrellas {
+  color: #E8A33D;
+}
+
+.boton-borde {
+  display: inline-block;
+  border: 2px solid #2E7D5B;
+  color: #2E7D5B;
+  text-decoration: none;
+  padding: 8px 18px;
+  margin-top: 10px;
+}
+
+/* Impacto */
+.dato {
+  background-color: #F1F5F2;
+  text-align: center;
+  padding: 20px;
+  margin-bottom: 10px;
+}
+
+.numero-grande {
+  color: #2E7D5B;
+  font-size: 32px;
+  font-weight: bold;
+  margin: 0;
+}
