@@ -1,0 +1,60 @@
+/* Estilos de ReVive */
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  color: #333333;
+}
+
+/* Encabezado */
+header {
+  background-color: #2E7D5B;
+  padding: 20px;
+}
+
+.logo {
+  color: #ffffff;
+  font-size: 22px;
+  font-weight: bold;
+  margin: 0;
+}
+
+header ul {
+  list-style: none;
+  padding: 0;
+}
+
+header li {
+  display: inline;
+  margin-right: 15px;
+}
+
+header a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+/* Contenido */
+.contenido {
+  padding: 30px;
+}
+
+h1 {
+  color: #2E7D5B;
+}
+
+.boton {
+  display: inline-block;
+  background-color: #2E7D5B;
+  color: #ffffff;
+  text-decoration: none;
+  padding: 10px 20px;
+  margin-top: 10px;
+}
+
+img {
+  display: block;
+  width: 100%;
+  max-width: 500px;
+  margin-top: 20px;
+}

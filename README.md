@@ -16,7 +16,6 @@ especialidades, calificaciones y reseñas de otros clientes.
 
 - HTML5
 - CSS3
-- (Posible) JavaScript para animaciones simples
 
 ## Estructura del proyecto
 
@@ -30,6 +29,7 @@ ProyectoWeb/
 ## Autor
 
 Elvis Toledo
+elvisxd67@gmail.com
 
 ## Colaboradores
 
