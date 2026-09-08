@@ -158,3 +158,42 @@ h2 {
   font-weight: bold;
   margin: 0;
 }
+
+/* Testimonios */
+.testimonio {
+  border-left: 4px solid #2E7D5B;
+  background-color: #F1F5F2;
+  padding: 15px;
+  margin-bottom: 15px;
+}
+
+.autor {
+  font-weight: bold;
+  color: #2E7D5B;
+  margin-bottom: 0;
+}
+
+/* Pie de pagina */
+footer {
+  background-color: #2E7D5B;
+  color: #ffffff;
+  padding: 30px;
+  margin-top: 30px;
+}
+
+footer h3 {
+  margin-bottom: 5px;
+}
+
+footer ul {
+  padding-left: 20px;
+}
+
+footer li {
+  margin-bottom: 5px;
+}
+
+.copyright {
+  margin-top: 20px;
+  font-size: 14px;
+}
