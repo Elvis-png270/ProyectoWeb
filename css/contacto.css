@@ -1,0 +1,199 @@
+/* Estilos de ReVive */
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  color: #333333;
+  line-height: 1.6;
+}
+
+/* Encabezado */
+header {
+  background-color: #2E7D5B;
+  padding: 20px;
+}
+
+.logo {
+  color: #ffffff;
+  font-size: 22px;
+  font-weight: bold;
+  margin: 0;
+}
+
+header ul {
+  list-style: none;
+  padding: 0;
+}
+
+header li {
+  display: inline;
+  margin-right: 15px;
+}
+
+header a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+/* Portada */
+.contenido {
+  padding: 30px;
+}
+
+h1 {
+  color: #2E7D5B;
+}
+
+.boton {
+  display: inline-block;
+  background-color: #2E7D5B;
+  color: #ffffff;
+  text-decoration: none;
+  padding: 10px 20px;
+  margin-top: 10px;
+}
+
+img {
+  display: block;
+  width: 100%;
+  max-width: 500px;
+  margin-top: 20px;
+}
+
+/* Secciones */
+.seccion {
+  padding: 30px;
+}
+
+h2 {
+  color: #2E7D5B;
+  text-align: center;
+}
+
+.texto-centro {
+  text-align: center;
+  color: #777777;
+}
+
+/* Pasos de "Como funciona" */
+.paso {
+  background-color: #F1F5F2;
+  padding: 20px;
+  margin-bottom: 15px;
+}
+
+.numero {
+  background-color: #2E7D5B;
+  color: #ffffff;
+  font-weight: bold;
+  width: 30px;
+  text-align: center;
+  padding: 5px;
+  margin: 0;
+}
+
+.paso h3 {
+  margin-bottom: 5px;
+}
+
+/* Categorias */
+.categoria {
+  border: 1px solid #cccccc;
+  padding: 15px;
+  margin-bottom: 10px;
+}
+
+.categoria h3 {
+  margin: 0 0 5px 0;
+  color: #2E7D5B;
+}
+
+.categoria p {
+  margin: 0;
+  color: #777777;
+}
+
+/* Reparadores */
+.tarjeta {
+  border: 1px solid #cccccc;
+  padding: 15px;
+  margin-bottom: 15px;
+}
+
+.tarjeta h3 {
+  color: #2E7D5B;
+  margin-bottom: 5px;
+}
+
+.tarjeta img {
+  max-width: 250px;
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+
+.estrellas {
+  color: #E8A33D;
+}
+
+.boton-borde {
+  display: inline-block;
+  border: 2px solid #2E7D5B;
+  color: #2E7D5B;
+  text-decoration: none;
+  padding: 8px 18px;
+  margin-top: 10px;
+}
+
+/* Impacto */
+.dato {
+  background-color: #F1F5F2;
+  text-align: center;
+  padding: 20px;
+  margin-bottom: 10px;
+}
+
+.numero-grande {
+  color: #2E7D5B;
+  font-size: 32px;
+  font-weight: bold;
+  margin: 0;
+}
+
+/* Testimonios */
+.testimonio {
+  border-left: 4px solid #2E7D5B;
+  background-color: #F1F5F2;
+  padding: 15px;
+  margin-bottom: 15px;
+}
+
+.autor {
+  font-weight: bold;
+  color: #2E7D5B;
+  margin-bottom: 0;
+}
+
+/* Pie de pagina */
+footer {
+  background-color: #2E7D5B;
+  color: #ffffff;
+  padding: 30px;
+  margin-top: 30px;
+}
+
+footer h3 {
+  margin-bottom: 5px;
+}
+
+footer ul {
+  padding-left: 20px;
+}
+
+footer li {
+  margin-bottom: 5px;
+}
+
+.copyright {
+  margin-top: 20px;
+  font-size: 14px;
+}
